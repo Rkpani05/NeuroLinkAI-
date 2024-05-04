@@ -10,7 +10,7 @@ NeuroLinkAI leverages advanced deep learning technologies, including Long Short-
 
 ## Installation
 To set up the NeuroLinkAI system, follow these steps:
-1. Clone the repository: `git clone [https://github.com/your-repo/neurolinkai.git]`
+1. Clone the repository: `git clone [https://github.com/Rkpani05/NeuroLinkAi-Deep_Learning_Driven_Neuroprosthetic_Control_Interface.git]`
 2. Install required Python packages: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 
